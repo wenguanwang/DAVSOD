@@ -61,7 +61,6 @@ Quanlitative comparisons
 
 ## Related Citations (BibTeX)
 If you find this useful, please cite the related works as follows:
-SSAV model/DAVSOD dataset
 ```
 @InProceedings{Fan_2019_CVPR,
    author = {Fan, Deng-Ping and Wang, Wenguan and Cheng, Ming-Ming and Shen, Jianbing}, 
@@ -70,27 +69,21 @@ SSAV model/DAVSOD dataset
    year = {2019}
 }
 ```
-
-Metrics
 ```
-%E-measure
-@inproceedings{Fan2018Enhanced,
-   author={Fan, Deng-Ping and Gong, Cheng and Cao, Yang and Ren, Bo and Cheng, Ming-Ming and Borji, Ali},
-   title={{Enhanced-alignment Measure for Binary Foreground Map Evaluation}},
-   booktitle={IJCAI},
-   pages={698--704},
-   year={2018}
+@InProceedings{Wang_2018_CVPR,
+	author = {Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
+	title = {Revisiting Video Saliency: A Large-Scale Benchmark and a New Model},
+	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition},
+	year = {2018}
 }
 ```
-
 ```
-%S-measure
-@inproceedings{fan2017structure,
-  author    = {Fan, Deng-Ping and Cheng, Ming-Ming and Liu, Yun and Li, Tao and Borji, Ali},
-  title     = {{Structure-measure: A New Way to Evaluate Foreground Maps}},
-  booktitle = {IEEE ICCV},
-  year      = {2017},
-  pages     = {4548-4557}
+@inproceedings{song2018pyramid,
+  title={Pyramid dilated deeper ConvLSTM for video salient object detection},
+  author={Song, Hongmei and Wang, Wenguan and Zhao, Sanyuan and Shen, Jianbing and Lam, Kin-Man},
+  booktitle={Proceedings of the European Conference on Computer Vision},
+  pages={715--731},
+  year={2018}
 }
 ```
 
