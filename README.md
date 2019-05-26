@@ -73,7 +73,7 @@ If you find this useful, please cite the related works as follows:
 @InProceedings{Wang_2018_CVPR,
 	author = {Wang, Wenguan and Shen, Jianbing and Guo, Fang and Cheng, Ming-Ming and Borji, Ali},
 	title = {Revisiting Video Saliency: A Large-Scale Benchmark and a New Model},
-	booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition},
+	booktitle = {IEEE CVPR},
 	year = {2018}
 }
 ```
@@ -81,7 +81,7 @@ If you find this useful, please cite the related works as follows:
 @inproceedings{song2018pyramid,
   title={Pyramid dilated deeper ConvLSTM for video salient object detection},
   author={Song, Hongmei and Wang, Wenguan and Zhao, Sanyuan and Shen, Jianbing and Lam, Kin-Man},
-  booktitle={Proceedings of the European Conference on Computer Vision},
+  booktitle={ECCV},
   pages={715--731},
   year={2018}
 }
